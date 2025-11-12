@@ -132,11 +132,8 @@ if __name__ == "__main__":
     logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.DEBUG)
     # 注意：这里使用示例API密钥，实际使用时应替换为您自己的密钥
 
-    # YOUR_API_KEY = ""
-    # YOUR_API_SECRET= ""
-    
-    YOUR_API_KEY = "03cb2a2eca9e1844c9878e4dd6f61963"
-    YOUR_API_SECRET = "13ebc1ffa57558929a040e9133423a6d71efdb03af0f94978ce02d486fd0263f"
+    YOUR_API_KEY = ""
+    YOUR_API_SECRET= ""
 
     # 创建WebSocket客户端实例
     app = GateWebSocketApp("wss://fx-ws.gateio.ws/v4/ws/usdt",

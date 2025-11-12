@@ -80,15 +80,15 @@ pip install websocket-client requests apscheduler websocket
 python --version
 ```
 
-### 🔑 API Key Usage Notice
+### 🔑 ~~API Key Usage Notice~~
 
-> **Important Notice**: I have included my demo trading API keys in the code for everyone to test and learn with.
+> ~~**Important Notice**: I have included my demo trading API keys in the code for everyone to test and learn with.~~
 >
-> **Strong Recommendation**: I encourage everyone to apply for their own accounts and use their own API keys for trading tests going forward.
+> ~~**Strong Recommendation**: I encourage everyone to apply for their own accounts and use their own API keys for trading tests going forward.~~
 >
-> **Long-term Usage**: If you plan to use these keys long-term, please contact me so we can discuss potential risks and mitigation strategies.
+> ~~**Long-term Usage**: If you plan to use these keys long-term, please contact me so we can discuss potential risks and mitigation strategies.~~
 >
-> **Let's Grow Together**: I hope we can all learn and progress together on our quantitative trading journey!
+> ~~**Let's Grow Together**: I hope we can all learn and progress together on our quantitative trading journey!~~
 
 ### Configuration
 

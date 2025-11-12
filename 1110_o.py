@@ -82,8 +82,8 @@ def on_open(ws):
 
 if __name__ == "__main__":
   logging.basicConfig(format="%(asctime)s - %(message)s", level=logging.DEBUG)
-  YOUR_API_KEY = "03cb2a2eca9e1844c9878e4dd6f61963"
-  YOUR_API_SECRET = "13ebc1ffa57558929a040e9133423a6d71efdb03af0f94978ce02d486fd0263f"
+  YOUR_API_KEY = ""
+  YOUR_API_SECRET = ""
 
   app = GateWebSocketApp("wss://fx-ws.gateio.ws/v4/ws/usdt",
                          YOUR_API_KEY,
